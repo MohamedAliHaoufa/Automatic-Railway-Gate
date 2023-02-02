@@ -1,0 +1,9 @@
+docs/* linguist-documentation
+tools/Proteus-Simulation* linguist-vendored
+*.asm linguist-language=Assembly
+*.asm linguist-detectable=true
+*.pdsprj linguist-detectable=false
+*.DSN linguist-detectable=false
+*.HEX linguist-detectable=false
+*.IDX linguist-detectable=false
+*.LIB linguist-detectable=false
